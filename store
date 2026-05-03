@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+    <meta charset='utf-8'/>
+    <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'/>
+    <title><data:blog.pageTitle/></title>
+    <meta content='Buy the best wireless earbuds, handsfree earphones, assorted colors in Pakistan. Noise cancellation, Bluetooth, fast delivery.' name='description'/>
+    <meta content='earbuds, handsfree, wireless, bluetooth, earphones, assorted earbuds, shamain, pakistan' name='keywords'/>
+    <meta expr:content='data:blog.blogId' name='blogId'/>
+    <b:skin><![CDATA[/* 
+Shamain Professional Theme v2.7 – SEO Optimized & Mobile Fixed
+*/
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Inter',sans-serif}
+body{background:#f8fafc;color:#1f2937;line-height:1.6;overflow-x:hidden}
+a{text-decoration:none;color:inherit}
+img{max-width:100%;height:auto}
+.top-bar{background:#dc2626;color:#fff;font-size:13px;padding:8px 10px;text-align:center;font-weight:500;word-break:break-word}
+.main-header{background:#fff;box-shadow:0 2px 15px rgba(0,0,0,.05);position:sticky;top:0;z-index:1000}
+.header-container{max-width:1400px;margin:0 auto;padding:15px 20px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}
+.logo{display:flex;align-items:center;gap:10px;text-decoration:none}
+.logo i{font-size:28px;color:#dc2626}
+.logo h1{font-size:24px;font-weight:800;color:#1f2937;line-height:1.1}
+.logo span{font-size:12px;color:#4b5563;display:block}
+.search-bar{flex:1;max-width:400px;min-width:200px;display:flex}
+.search-bar input{width:100%;padding:12px 15px;border:1px solid #e5e7eb;border-radius:40px 0 0 40px;outline:none;font-size:14px}
+.search-bar button{background:#dc2626;border:none;padding:0 18px;border-radius:0 40px 40px 0;color:white;cursor:pointer;transition:0.2s;touch-action:manipulation}
+.search-bar button:hover{background:#b91c1c}
+.header-icons{display:flex;gap:15px;align-items:center}
+.icon-btn{position:relative;cursor:pointer;font-size:24px;color:#1f2937;background:none;border:none;padding:8px;touch-action:manipulation}
+.icon-btn .cart-count{position:absolute;top:-2px;right:-2px;background:#dc2626;color:#fff;font-size:11px;width:20px;height:20px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700}
+.hamburger{display:none;background:none;border:none;font-size:26px;cursor:pointer;color:#1f2937;padding:8px}
+.nav-menu{background:#fff;border-top:1px solid #f0f0f0;border-bottom:1px solid #f0f0f0;padding:0 20px}
+.nav-links{max-width:1400px;margin:0 auto;display:flex;gap:20px;list-style:none;padding:12px 0;flex-wrap:wrap;justify-content:center}
+.nav-links li a{text-decoration:none;color:#1f2937;font-weight:600;font-size:14px;transition:0.2s;padding:5px 0;display:block}
+.nav-links li a:hover,.nav-links li a.active{color:#dc2626;border-bottom:2px solid #dc2626}
+.slider-container{position:relative;max-width:1400px;margin:20px auto;overflow:hidden;border-radius:24px;box-shadow:0 10px 25px rgba(0,0,0,.1);touch-action:pan-y}
+.slider{display:flex;transition:transform 0.5s ease}
+.slider img{width:100%;height:400px;object-fit:cover;flex-shrink:0}
+.slider-btn{position:absolute;top:50%;transform:translateY(-50%);background:rgba(0,0,0,.5);color:white;border:none;font-size:24px;padding:0;width:44px;height:44px;cursor:pointer;border-radius:50%;display:flex;align-items:center;justify-content:center;transition:0.2s;touch-action:manipulation;z-index:10}
+.slider-btn:hover{background:rgba(0,0,0,.8)}
+.prev-btn{left:10px}
+.next-btn{right:10px}
+.slider-dots{text-align:center;margin-top:10px;display:flex;justify-content:center;gap:6px;flex-wrap:wrap}
+.slider-dots button{display:inline-block;width:12px;height:12px;border-radius:50%;background:#ccc;border:none;cursor:pointer;touch-action:manipulation}
+.slider-dots button.active{background:#dc2626}
+.container{max-width:1400px;margin:40px auto;padding:0 20px;min-height:60vh}
+
+/* PAGE VISIBILITY */
+.page{display:none}
+.page.active{display:block}
+
+.section-title{font-size:24px;font-weight:700;margin-bottom:25px;border-left:5px solid #dc2626;padding-left:15px}
+.product-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:20px}
+.product-card{background:white;border-radius:20px;overflow:hidden;box-shadow:0 5px 15px rgba(0,0,0,.05);transition:0.3s;cursor:pointer;position:relative;touch-action:manipulation}
+.product-card:hover{transform:translateY(-8px);box-shadow:0 20px 30px rgba(0,0,0,.1)}
+.product-card .product-img{width:100%;height:200px;object-fit:cover;border-bottom:1px solid #f3f4f6}
+.product-info{padding:15px}
+.product-category{font-size:11px;color:#dc2626;font-weight:700;text-transform:uppercase;margin-bottom:6px}
+.product-title{font-weight:700;font-size:15px;margin-bottom:6px}
+.rating{color:#f59e0b;margin-bottom:8px;font-size:14px}
+.price{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.current-price{font-size:18px;font-weight:800;color:#dc2626}
+.old-price{text-decoration:line-through;color:#9ca3af;font-size:13px}
+.btn-add{background:#1f2937;color:white;border:none;padding:10px 18px;width:100%;border-radius:30px;font-weight:600;cursor:pointer;transition:0.3s;margin-top:10px;touch-action:manipulation}
+.btn-add:hover{background:#dc2626}
+.modal-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.6);z-index:2000;display:flex;align-items:center;justify-content:center;visibility:hidden;opacity:0;transition:0.3s;-webkit-overflow-scrolling:touch}
+.modal-overlay.active{visibility:visible;opacity:1}
+.modal-content{background:white;border-radius:24px;max-width:900px;width:95%;max-height:90vh;overflow-y:auto;padding:25px;position:relative;-webkit-overflow-scrolling:touch}
+.modal-close{position:absolute;top:10px;right:20px;font-size:28px;cursor:pointer;color:#4b5563;z-index:5;touch-action:manipulation}
+.product-gallery{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:20px}
+.product-gallery img{width:70px;height:70px;object-fit:cover;border-radius:12px;cursor:pointer;border:2px solid transparent;touch-action:manipulation}
+.product-gallery img.active{border-color:#dc2626}
+.main-image{width:100%;height:300px;object-fit:cover;border-radius:16px;margin-bottom:10px}
+.detail-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.add-to-cart-large{background:#dc2626;color:white;border:none;padding:14px 25px;border-radius:40px;font-weight:700;cursor:pointer;width:100%;margin-top:15px;touch-action:manipulation}
+.cart-overlay{position:fixed;top:0;right:0;width:100%;height:100%;background:rgba(0,0,0,.5);visibility:hidden;opacity:0;transition:0.3s;z-index:2100}
+.cart-drawer{position:fixed;top:0;right:-100%;width:100%;max-width:400px;height:100%;background:#fff;box-shadow:-5px 0 20px rgba(0,0,0,.2);transition:right 0.3s;z-index:2101;display:flex;flex-direction:column}
+.cart-overlay.active,.cart-drawer.active{visibility:visible;opacity:1}
+.cart-drawer.active{right:0}
+.cart-header{padding:18px;border-bottom:1px solid #e5e7eb;display:flex;justify-content:space-between;align-items:center}
+.cart-items{flex:1;overflow-y:auto;padding:15px;-webkit-overflow-scrolling:touch}
+.cart-item{display:flex;gap:12px;margin-bottom:18px;align-items:center}
+.cart-item-img{width:60px;height:60px;object-fit:cover;border-radius:12px}
+.cart-qty{display:flex;gap:6px;align-items:center;margin-top:5px}
+.cart-qty button{background:#f3f4f6;border:none;width:28px;height:28px;border-radius:8px;cursor:pointer;touch-action:manipulation}
+.cart-footer{padding:15px;border-top:1px solid #e5e7eb}
+.checkout-btn{background:#dc2626;width:100%;padding:14px;border:none;color:white;font-weight:700;border-radius:40px;cursor:pointer;transition:0.2s;touch-action:manipulation}
+.checkout-btn:hover{background:#b91c1c}
+.admin-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.5);z-index:3000;display:flex;align-items:center;justify-content:center;visibility:hidden;opacity:0;transition:0.3s}
+.admin-overlay.active{visibility:visible;opacity:1}
+.admin-panel{background:#fff;border-radius:24px;width:95%;max-width:1200px;max-height:90vh;overflow-y:auto;padding:25px;position:relative;box-shadow:0 20px 40px rgba(0,0,0,.2);-webkit-overflow-scrolling:touch}
+.admin-panel .close-admin{position:absolute;top:15px;right:20px;font-size:28px;cursor:pointer;touch-action:manipulation}
+.admin-table{width:100%;border-collapse:collapse;margin-top:20px}
+.admin-table th,.admin-table td{padding:10px;border-bottom:1px solid #e5e7eb;text-align:left;font-size:14px}
+.admin-table th{background:#f9fafb;font-weight:600}
+.checkout-section{background:white;border-radius:24px;padding:25px;margin-top:30px;display:none}
+.checkout-section.active{display:block}
+.form-group{margin-bottom:15px}
+.form-group input,.form-group textarea{width:100%;padding:12px;border:1px solid #d1d5db;border-radius:12px;font-size:14px}
+.place-order{background:#10b981;color:white;padding:14px;border-radius:40px;border:none;width:100%;cursor:pointer;touch-action:manipulation;font-weight:600}
+.back-shop{background:#4b5563;margin-top:12px}
+.whatsapp-float{position:fixed;bottom:20px;right:20px;background:#25D366;color:white;width:55px;height:55px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:28px;box-shadow:0 4px 12px rgba(0,0,0,.2);cursor:pointer;z-index:1500;transition:0.2s;text-decoration:none}
+.whatsapp-float:hover{transform:scale(1.05);background:#128C7E}
+footer{background:#111827;color:#9ca3af;padding:40px 20px 20px;margin-top:60px}
+.footer-inner{max-width:1400px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:25px}
+/* MOBILE RESPONSIVE */
+@media(max-width:768px){
+  .header-container{padding:10px 15px;flex-direction:column;align-items:stretch;gap:8px}
+  .logo{justify-content:center}
+  .logo h1{font-size:22px}
+  .search-bar{max-width:100%;margin:5px 0}
+  .header-icons{justify-content:center}
+  .hamburger{display:block;align-self:flex-end;margin-top:-40px}
+  .nav-menu{padding:0}
+  .nav-links{display:none;flex-direction:column;gap:8px;padding:10px 20px;background:#f9fafb}
+  .nav-links.show{display:flex}
+  .slider img{height:250px}
+  .slider-btn{width:40px;height:40px;font-size:20px}
+  .product-grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:15px}
+  .product-card .product-img{height:160px}
+  .detail-grid{grid-template-columns:1fr}
+  .cart-drawer{max-width:320px}
+  .main-image{height:220px}
+}
+@media(max-width:480px){
+  .top-bar{font-size:11px;padding:6px 5px}
+  .section-title{font-size:20px}
+  .product-grid{grid-template-columns:1fr 1fr;gap:12px}
+  .product-card .product-img{height:140px}
+  .price .current-price{font-size:15px}
+  .btn-add{padding:8px 15px;font-size:14px}
+  .modal-content{padding:15px}
+  .product-gallery img{width:55px;height:55px}
+  .main-image{height:180px}
+  .add-to-cart-large{font-size:15px;padding:12px}
+  .admin-table th,.admin-table td{font-size:12px;padding:8px 4px}
+  .whatsapp-float{width:50px;height:50px;font-size:24px}
+}
+/* Google Structured Data – invisible */
+.schema-org{display:none}
+]]></b:skin>
+    <link href='https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;display=swap' rel='stylesheet'/>
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css' rel='stylesheet'/>
+</head>
+<body>
+<div class='top-bar'>🔥 Free Shipping on Orders Above Rs. 3,000 | 7 Days Warranty | Assorted Colors 🔥</div>
+<div class='main-header'>
+    <div class='header-container'>
+        <a class='logo' href='/' onclick='showPage(&quot;home&quot;); return false;'><i class='fas fa-headphones'/><div><h1>SHAMAIN</h1><span>Premium Audio &#183; Assorted Collection</span></div></a>
+        <div class='search-bar'><input id='searchInput' placeholder='Search earbuds...' type='text'/><button id='searchBtn'><i class='fas fa-search'/></button></div>
+        <div class='header-icons'>
+            <button class='icon-btn' id='adminIconBtn' title='Admin Panel'><i class='fas fa-cog'/></button>
+            <div class='hamburger' id='hamburgerBtn'><i class='fas fa-bars'/></div>
+            <div class='icon-btn' id='cartIcon'><i class='fas fa-shopping-cart'/><span class='cart-count' id='cartCount'>0</span></div>
+        </div>
+    </div>
+    <div class='nav-menu'>
+        <ul class='nav-links' id='navLinks'>
+            <li><a class='active' href='/' onclick='showPage(&quot;home&quot;); return false;'>Home</a></li>
+            <li><a href='#' onclick='showPage(&quot;shop&quot;); return false;'>Shop</a></li>
+            <!-- 👇 REPLACE BELOW WITH YOUR REAL PAGE URLS -->
+            <li><a href='/p/about-us.html' onclick='showPage(&quot;about&quot;); return false;'>About Us</a></li>
+            <li><a href='/p/contact-us.html' onclick='showPage(&quot;contact&quot;); return false;'>Contact</a></li>
+            <li><a href='/p/privacy-policy.html' onclick='showPage(&quot;privacy&quot;); return false;'>Privacy Policy</a></li>
+            <li><a href='/p/terms-and-conditions.html' onclick='showPage(&quot;terms&quot;); return false;'>Terms</a></li>
+        </ul>
+    </div>
+</div>
+
+<b:section class='main-section' id='main-section' showaddelement='yes'>
+  <b:widget id='Blog1' locked='false' title='Blog Posts' type='Blog' version='2' visible='true'>
+    <b:widget-settings>
+      <b:widget-setting name='showDateHeader'>false</b:widget-setting>
+      <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+      <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+      <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='showAuthor'>false</b:widget-setting>
+      <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+      <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='timestampLabel'/>
+      <b:widget-setting name='reactionsLabel'/>
+      <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+      <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+      <b:widget-setting name='showLabels'>true</b:widget-setting>
+      <b:widget-setting name='showLocation'>true</b:widget-setting>
+      <b:widget-setting name='postLabelsLabel'/>
+      <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+      <b:widget-setting name='postsPerAd'>3</b:widget-setting>
+      <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+      <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='showInlineAds'>true</b:widget-setting>
+      <b:widget-setting name='showReactions'>false</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
+<div class='container'>
+    <!-- Home Page -->
+    <div class='page active' id='homePage'>
+        <div class='slider-container' id='homeSlider'><div class='slider' id='sliderTrack'/><button class='slider-btn prev-btn' onclick='moveSlide(-1)'>&#10094;</button><button class='slider-btn next-btn' onclick='moveSlide(1)'>&#10095;</button></div>
+        <div class='slider-dots' id='sliderDots'/>
+        
+        <div class='section-title' style='margin-top:40px;'>🏆 Bestseller Handsfree Earbuds</div>
+        <div class='product-grid' id='featuredGrid'/>
+        
+        <!-- Recent Blog Posts (SEO friendly) -->
+        <div class='section-title'>📝 Latest Arrivals &amp; Reviews</div>
+        <div class='product-grid' id='recentPostsGrid'><p>Loading latest posts...</p></div>
+        
+        <div style='display:flex; justify-content:center; gap:30px; margin:40px 0; flex-wrap:wrap;'>
+            <div style='text-align:center;'><i class='fas fa-truck' style='font-size:32px; color:#dc2626;'/><br/><strong>Free Delivery</strong><br/><small>Orders over 3000</small></div>
+            <div style='text-align:center;'><i class='fas fa-undo' style='font-size:32px; color:#dc2626;'/><br/><strong>7 Days Return</strong><br/><small>Easy warranty</small></div>
+            <div style='text-align:center;'><i class='fas fa-lock' style='font-size:32px; color:#dc2626;'/><br/><strong>Secure Checkout</strong><br/><small>SSL encrypted</small></div>
+            <div style='text-align:center;'><i class='fas fa-headset' style='font-size:32px; color:#dc2626;'/><br/><strong>24/7 Support</strong><br/><small>WhatsApp Ready</small></div>
+        </div>
+        <div class='slider-container' id='secondSlider' style='margin-top:40px;'><div class='slider' id='sliderTrack2'/><button class='slider-btn prev-btn' onclick='moveSlide2(-1)'>&#10094;</button><button class='slider-btn next-btn' onclick='moveSlide2(1)'>&#10095;</button></div>
+        <div class='slider-dots' id='sliderDots2'/>
+        <div style='background:#eef2ff; padding:30px; border-radius:24px; margin-top:40px; text-align:center;'>
+            <h3>What Customers Say</h3>
+            <div style='display:flex; gap:20px; overflow-x:auto; padding:20px 0; justify-content:center; flex-wrap:wrap;'>
+                <div style='background:white; padding:20px; border-radius:16px; width:250px; box-shadow:0 5px 15px rgba(0,0,0,.05);'><p>&quot;Amazing bass and battery life. Delivery in 2 days!&quot;</p><strong>- Ali Raza, Karachi</strong></div>
+                <div style='background:white; padding:20px; border-radius:16px; width:250px; box-shadow:0 5px 15px rgba(0,0,0,.05);'><p>&quot;Assorted colors are a hit. I bought 3 pairs for family.&quot;</p><strong>- Fatima, Lahore</strong></div>
+                <div style='background:white; padding:20px; border-radius:16px; width:250px; box-shadow:0 5px 15px rgba(0,0,0,.05);'><p>&quot;The X12 Pro is a beast. Noise cancellation is real.&quot;</p><strong>- Usman, Islamabad</strong></div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Shop Page -->
+    <div class='page' id='shopPage'>
+        <div class='section-title'>🛒 All Handsfree Earbuds</div>
+        <div style='margin-bottom:20px; display:flex; gap:10px; flex-wrap:wrap;'>
+            <button class='filter-btn active' data-cat='all'>All</button>
+            <button class='filter-btn' data-cat='wireless'>True Wireless</button>
+            <button class='filter-btn' data-cat='neckband'>Neckband</button>
+            <button class='filter-btn' data-cat='sports'>Sports</button>
+            <button class='filter-btn' data-cat='assorted'>Assorted</button>
+        </div>
+        <div class='product-grid' id='shopGrid'/>
+    </div>
+    
+    <!-- About Page (also accessible directly via /p/about-us.html) -->
+    <div class='page' id='aboutPage'>
+        <div class='section-title'>📖 About Shamain</div>
+        <div style='background:white; padding:30px; border-radius:24px;'>
+            <p><strong>Shamain</strong> delivers premium audio products at affordable prices. We specialize in handfree earbuds that combine style, comfort, and advanced technology. Our assorted color range lets you express your personality.</p>
+            <br/><p>Every product is tested for durability, battery life, and sound clarity. 7 days warranty and cash on delivery across Pakistan.</p>
+            <br/><h4>Why customers love us:</h4>
+            <ul><li>&#9989; Noise cancellation</li><li>&#9989; Fast pairing</li><li>&#9989; Sweatproof sports</li><li>&#9989; 24/7 support</li></ul>
+        </div>
+    </div>
+    
+    <!-- Contact Page -->
+    <div class='page' id='contactPage'>
+        <div class='section-title'>📞 Contact Us</div>
+        <div class='detail-grid'>
+            <div style='background:white; padding:25px; border-radius:24px;'>
+                <h3>Get in Touch</h3>
+                <p><i class='fas fa-map-marker-alt'/> 123 Mall Road, Lahore, Pakistan</p>
+                <p><i class='fas fa-phone'/> +92 300 111 2222</p>
+                <p><i class='fas fa-envelope'/> support@shamain.com</p>
+                <p><i class='fab fa-whatsapp'/> +92 319 4327821</p>
+                <hr/><h4>Hours</h4><p>Mon-Fri: 10am-7pm<br/>Sat: 11am-4pm</p>
+            </div>
+            <div style='background:white; padding:25px; border-radius:24px;'>
+                <h3>Send a Message</h3>
+                <form id='contactForm'>
+                    <input placeholder='Your Name' style='width:100%; margin-bottom:15px; padding:10px;' type='text'/>
+                    <input placeholder='Email' style='width:100%; margin-bottom:15px; padding:10px;' type='email'/>
+                    <textarea placeholder='Message' rows='4' style='width:100%; margin-bottom:15px; padding:10px;'/>
+                    <button class='place-order' style='background:#dc2626;' type='submit'>Send</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Privacy Policy Page -->
+    <div class='page' id='privacyPage'>
+        <div class='section-title'>🔒 Privacy Policy</div>
+        <div style='background:white; padding:30px; border-radius:24px;'>
+            <p>Your privacy is important to us. It is Shamain&#39;s policy to respect your privacy regarding any information we may collect from you across our website.</p>
+            <p>We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent.</p>
+            <p>We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we&#8217;ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.</p>
+            <p>We don&#8217;t share any personally identifying information publicly or with third-parties, except when required to by law.</p>
+            <p>Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.</p>
+            <p>You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.</p>
+            <p>Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.</p>
+        </div>
+    </div>
+
+    <!-- Terms & Conditions Page -->
+    <div class='page' id='termsPage'>
+        <div class='section-title'>📜 Terms &amp; Conditions</div>
+        <div style='background:white; padding:30px; border-radius:24px;'>
+            <p>Welcome to Shamain! By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.</p>
+            <p><strong>Use of Site:</strong> You may use this site for lawful purposes only. You are responsible for maintaining the confidentiality of your account.</p>
+            <p><strong>Product Information:</strong> We strive to display accurate colors and descriptions. Prices are subject to change without notice.</p>
+            <p><strong>Payment &amp; Delivery:</strong> Cash on Delivery across Pakistan. Orders are processed within 24 hours. Delivery time varies by city.</p>
+            <p>If you have any questions, please contact our support team.</p>
+        </div>
+    </div>
+
+    <div class='checkout-section' id='checkoutPanel'>
+        <h2>Complete Your Order</h2>
+        <div class='detail-grid'>
+            <div>
+                <form id='checkoutForm'>
+                    <div class='form-group'><label>Full Name</label><input id='fullName' required='required' type='text'/></div>
+                    <div class='form-group'><label>Phone</label><input id='phone' required='required' type='tel'/></div>
+                    <div class='form-group'><label>Email</label><input id='email' required='required' type='email'/></div>
+                    <div class='form-group'><label>Address</label><textarea id='address' required='required' rows='3'/></div>
+                    <div class='form-group'><label>City</label><input id='city' required='required' type='text'/></div>
+                    <button class='place-order' type='submit'>Place Order (COD)</button>
+                    <button class='place-order back-shop' id='backToShopBtn' type='button'>Continue Shopping</button>
+                </form>
+            </div>
+            <div class='order-summary'>
+                <h3>Order Summary</h3>
+                <div id='orderSummaryItems'/>
+                <hr/>
+                <h4>Total: PKR <span id='orderTotalPrice'>0</span></h4>
+            </div>
+        </div>
+    </div>
+</div>
+</b:includable>
+    <b:includable id='aboutPostAuthor'> ... </b:includable>
+    <b:includable id='addComments'>
+  <a expr:href='data:post.commentsUrl' expr:onclick='data:post.commentsUrlOnclick'>
+    <b:message name='messages.postAComment'/>
+  </a>
+</b:includable>
+    <b:includable id='commentAuthorAvatar'>
+  <div class='avatar-image-container'>
+    <img class='author-avatar' expr:src='data:comment.authorAvatarSrc' height='35' width='35'/>
+  </div>
+</b:includable>
+    <b:includable id='commentDeleteIcon' var='comment'>
+  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+    <b:if cond='data:showCmtPopup'>
+      <div class='goog-toggle-button'>
+        <div class='goog-inline-block comment-action-icon'/>
+      </div>
+    <b:else/>
+      <a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:messages.deleteComment'>
+        <img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+      </a>
+    </b:if>
+  </span>
+</b:includable>
+    <b:includable id='commentForm' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <h4 id='comment-post-message'><data:messages.postAComment/></h4>
+    <b:if cond='data:this.messages.blogComment != &quot;&quot;'>
+      <p><data:this.messages.blogComment/></p>
+    </b:if>
+    <b:include data='post' name='commentFormIframeSrc'/>
+    <iframe allowtransparency='allowtransparency' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight ?: &quot;90px&quot;' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+    <b:includable id='commentFormIframeSrc' var='post'>
+  <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+</b:includable>
+    <b:includable id='commentItem' var='comment'>
+  <div class='comment' expr:id='&quot;c&quot; + data:comment.id'>
+    <b:include cond='data:blog.enabledCommentProfileImages' name='commentAuthorAvatar'/>
+
+    <div class='comment-block'>
+      <div class='comment-author'>
+        <b:if cond='data:comment.authorUrl'>
+          <b:message name='messages.authorSaidWithLink'>
+            <b:param expr:value='data:comment.author' name='authorName'/>
+            <b:param expr:value='data:comment.authorUrl' name='authorUrl'/>
+          </b:message>
+        <b:else/>
+          <b:message name='messages.authorSaid'>
+            <b:param expr:value='data:comment.author' name='authorName'/>
+          </b:message>
+        </b:if>
+      </div>
+      <div expr:class='&quot;comment-body&quot; + (data:comment.isDeleted ? &quot; deleted&quot; : &quot;&quot;)'>
+        <data:comment.body/>
+      </div>
+      <div class='comment-footer'>
+        <span class='comment-timestamp'>
+          <a expr:href='data:comment.url' title='comment permalink'>
+            <data:comment.timestamp/>
+          </a>
+          <b:include data='comment' name='commentDeleteIcon'/>
+        </span>
+      </div>
+    </div>
+  </div>
+</b:includable>
+    <b:includable id='commentList' var='comments'>
+  <div id='comments-block'>
+    <b:loop values='data:comments' var='comment'>
+      <b:include data='comment' name='commentItem'/>
+    </b:loop>
+  </div>
+</b:includable>
+    <b:includable id='commentPicker' var='post'>
+  <b:if cond='data:post.showThreadedComments'>
+    <b:include data='post' name='threadedComments'/>
+  <b:else/>
+    <b:include data='post' name='comments'/>
+  </b:if>
+</b:includable>
+    <b:includable id='comments' var='post'>
+  <section expr:class='&quot;comments&quot; + (data:post.embedCommentForm ? &quot; embed&quot; : &quot;&quot;)' expr:data-num-comments='data:post.numberOfComments' id='comments'>
+    <a name='comments'/>
+    <b:if cond='data:post.allowComments'>
+
+      <b:include name='commentsTitle'/>
+
+      <div expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+        <b:include cond='data:post.comments' data='post.comments' name='commentList'/>
+      </div>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <div class='paging-control-container'>
+          <b:if cond='data:post.hasOlderLinks'>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+              <data:messages.oldest/>
+            </a>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+              <data:messages.older/>
+            </a>
+          </b:if>
+
+          <span class='comment-range-text'>
+            <data:post.commentRangeText/>
+          </span>
+
+          <b:if cond='data:post.hasNewerLinks'>
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+              <data:messages.newer/>
+            </a>
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+              <data:messages.newest/>
+            </a>
+          </b:if>
+        </div>
+      </b:if>
+
+      <div class='footer'>
+        <b:if cond='data:post.embedCommentForm'>
+          <b:if cond='data:post.allowNewComments'>
+            <b:include data='post' name='commentForm'/>
+          <b:else/>
+            <data:post.noNewCommentsText/>
+          </b:if>
+        <b:else/>
+          <b:if cond='data:post.allowComments'>
+            <b:include data='post' name='addComments'/>
+          </b:if>
+        </b:if>
+      </div>
+    </b:if>
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='allowtransparency' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+  </section>
+</b:includable>
+    <b:includable id='commentsTitle'>
+  <h3 class='title'><data:messages.comments/></h3>
+</b:includable>
+    <b:includable id='feedLinks'>
+  <b:if cond='!data:view.isPost'> <!-- Blog feed links -->
+    <b:if cond='data:feedLinks'>
+      <div class='blog-feeds'>
+        <b:include data='feedLinks' name='feedLinksBody'/>
+      </div>
+    </b:if>
+  <b:else/> <!--Post feed links -->
+    <div class='post-feeds'>
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.allowComments and data:post.feedLinks'>
+          <b:include data='post.feedLinks' name='feedLinksBody'/>
+        </b:if>
+      </b:loop>
+    </div>
+  </b:if>
+</b:includable>
+    <b:includable id='feedLinksBody' var='links'>
+  <div class='feed-links'>
+  <data:messages.subscribeTo/>
+  <b:loop values='data:links' var='f'>
+     <a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'><data:f.name/> (<data:f.feedType/>)</a>
+  </b:loop>
+  </div>
+</b:includable>
+    <b:includable id='homePageLink'>
+  <a class='home-link' expr:href='data:blog.homepageUrl'>
+    <data:messages.home/>
+  </a>
+</b:includable>
+    <b:includable id='iframeComments' var='post'>
+  <!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+    <b:includable id='inlineAd' var='post'>
+  <b:if cond='!data:view.isPreview'>
+    <b:if cond='data:this.adCode or data:this.adClientId or data:blog.adsenseClientId'>
+      <!-- Ad -->
+      <div class='inline-ad'>
+        <b:if cond='data:this.adCode != &quot;&quot;'>
+          <data:this.adCode/>
+        <b:else/>
+          <b:include cond='data:this.adClientId or data:blog.adsenseClientId' name='defaultAdUnit'/>
+        </b:if>
+      </div>
+    </b:if>
+  <b:else/>
+    <div class='inline-ad'>
+      <div class='inline-ad-placeholder'>
+        <span><b:message name='messages.adsGoHere'/></span>
+      </div>
+    </div>
+  </b:if>
+</b:includable>
+    <b:includable id='nextPageLink'>
+  <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:messages.olderPosts'>
+    <data:messages.olderPosts/>
+  </a>
+</b:includable>
+    <b:includable id='post' var='post'>
+  <div class='post'>
+    <b:include data='post' name='postMeta'/>
+    <b:include data='post' name='postTitle'/>
+    <b:include name='headerByline'/>
+    <b:if cond='data:view.isSingleItem'>
+      <b:include data='post' name='postBody'/>
+    <b:else/>
+      <b:include data='post' name='postBodySnippet'/>
+      <b:include data='post' name='postJumpLink'/>
+    </b:if>
+    <b:include data='post' name='postFooter'/>
+  </div>
+</b:includable>
+    <b:includable id='postBody' var='post'>
+  <!-- If metaDescription is empty, use the post body as the schema.org description too, for G+/FB snippeting. -->
+  <div class='post-body entry-content float-container' expr:id='&quot;post-body-&quot; + data:post.id'>
+    <data:post.body/>
+  </div>
+</b:includable>
+    <b:includable id='postBodySnippet' var='post'>
+  <b:include data='post' name='postBody'/>
+</b:includable>
+    <b:includable id='postCommentsAndAd' var='post'>
+  <article class='post-outer-container'>
+    <!-- Post title and body -->
+    <div class='post-outer'>
+      <b:include data='post' name='post'/>
+    </div>
+
+    <!-- Comments -->
+    <b:include cond='data:view.isSingleItem' data='post' name='commentPicker'/>
+
+    <!-- Show ad inside post container, after comments, if single item. -->
+    <b:include cond='data:view.isSingleItem and data:post.includeAd' data='post' name='inlineAd'/>
+  </article>
+
+  <!-- Show ad outside post container (between posts) for feed pages. -->
+  <b:include cond='data:view.isMultipleItems and data:post.includeAd' data='post' name='inlineAd'/>
+</b:includable>
+    <b:includable id='postCommentsLink'>
+  <b:if cond='data:view.isMultipleItems'>
+    <span class='byline post-comment-link container'>
+      <b:include cond='data:post.commentSource != 1' name='commentsLink'/>
+    </span>
+  </b:if>
+</b:includable>
+    <b:includable id='postFooter' var='post'>
+  <div class='post-footer'>
+    <b:include name='footerBylines'/>
+    <b:include data='post' name='postFooterAuthorProfile'/>
+  </div>
+</b:includable>
+    <b:includable id='postFooterAuthorProfile' var='post'>
+  <b:if cond='data:post.author.aboutMe and data:view.isPost'>
+    <div class='author-profile'>
+      <b:if cond='data:post.author.authorPhoto.url'>
+        <img class='author-image' expr:src='data:post.author.authorPhoto.url' width='50px'/>
+        <div class='author-about'>
+          <b:include data='post' name='aboutPostAuthor'/>
+        </div>
+      <b:else/>
+        <b:include data='post' name='aboutPostAuthor'/>
+      </b:if>
+    </div>
+  </b:if>
+</b:includable>
+    <b:includable id='postHeader' var='post'>
+  <b:include name='headerByline'/>
+</b:includable>
+    <b:includable id='postMeta' var='post'>
+  <b:include data='post' name='postMetadataJSON'/>
+</b:includable>
+    <b:includable id='postPagination'>
+  <div class='blog-pager container' id='blog-pager'>
+    <b:include cond='data:newerPageUrl' name='previousPageLink'/>
+    <b:include cond='data:olderPageUrl' name='nextPageLink'/>
+    <b:include cond='data:view.url != data:blog.homepageUrl' name='homePageLink'/>
+  </div>
+</b:includable>
+    <b:includable id='postTitle' var='post'>
+  <a expr:name='data:post.id'/>
+  <b:if cond='data:post.title != &quot;&quot;'>
+    <h3 class='post-title entry-title'>
+      <b:if cond='data:post.link or (data:post.url and data:view.url != data:post.url)'>
+        <a expr:href='data:post.link ?: data:post.url'><data:post.title/></a>
+      <b:else/>
+        <data:post.title/>
+      </b:if>
+    </h3>
+  </b:if>
+</b:includable>
+    <b:includable id='previousPageLink'>
+  <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:messages.newerPosts'>
+    <data:messages.newerPosts/>
+  </a>
+</b:includable>
+    <b:includable id='threadedCommentForm' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <h4 id='comment-post-message'><data:messages.postAComment/></h4>
+    <b:if cond='data:this.messages.blogComment != &quot;&quot;'>
+      <p><data:this.messages.blogComment/></p>
+    </b:if>
+    <b:include data='post' name='commentFormIframeSrc'/>
+    <iframe allowtransparency='allowtransparency' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight ?: &quot;90px&quot;' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+    <b:includable id='threadedCommentJs' var='post'>
+  <script async='async' expr:src='data:post.commentSrc' type='text/javascript'/>
+  <b:template-script inline='true' name='threaded_comments'/>
+  <script type='text/javascript'>
+    blogger.widgets.blog.initThreadedComments(
+        <data:post.commentJso/>,
+        <data:post.commentMsgs/>,
+        <data:post.commentConfig/>);
+  </script>
+</b:includable>
+    <b:includable id='threadedComments' var='post'>
+  <section class='comments threaded' expr:data-embed='data:post.embedCommentForm' expr:data-num-comments='data:post.numberOfComments' id='comments'>
+    <a name='comments'/>
+
+    <b:include name='commentsTitle'/>
+
+    <div class='comments-content'>
+      <b:if cond='data:post.embedCommentForm'>
+        <b:include data='post' name='threadedCommentJs'/>
+      </b:if>
+      <div id='comment-holder'>
+         <data:post.commentHtml/>
+      </div>
+    </div>
+
+    <p class='comment-footer'>
+      <b:if cond='data:post.allowNewComments'>
+        <b:include data='post' name='threadedCommentForm'/>
+      <b:else/>
+        <data:post.noNewCommentsText/>
+      </b:if>
+      <b:if cond='data:post.showManageComments'>
+        <b:include data='post' name='manageComments'/>
+      </b:if>
+    </p>
+
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='allowtransparency' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+  </section>
+</b:includable>
+    <b:includable id='tooltipCss'>
+  <!-- LINT.IfChange -->
+  <style>
+    .post-body a.b-tooltip-container {
+      position: relative;
+      display: inline-block;
+    }
+
+    .post-body a.b-tooltip-container .b-tooltip {
+      display: block !important;
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translate(-20%, 1px);
+      visibility: hidden;
+      opacity: 0;
+      z-index: 1;
+      transition: opacity 0.2s ease-in-out;
+    }
+
+    .post-body a.b-tooltip-container .b-tooltip iframe {
+      width: 200px;
+      height: 198px;
+      max-width: none;
+      border: none;
+      border-radius: 20px;
+      box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.2);
+    }
+
+    @media (hover: hover) {
+      .post-body a.b-tooltip-container:hover .b-tooltip {
+        visibility: visible;
+        opacity: 1;
+      }
+    }
+  </style>
+  <!-- LINT.ThenChange(//depot/google3/java/com/google/blogger/b2/layouts/widgets/v2-style.css) -->
+</b:includable>
+  </b:widget>
+</b:section>
+
+<!-- Product Detail Modal -->
+<div class='modal-overlay' id='productModal'>
+    <div class='modal-content'><span class='modal-close' id='closeModal'>&#215;</span><div id='modalBody'/></div>
+</div>
+<!-- Admin Overlay -->
+<div class='admin-overlay' id='adminOverlay'><div class='admin-panel' id='adminPanel'><i class='fas fa-times close-admin' id='closeAdminPanel'/><div id='adminContent'/></div></div>
+<!-- Cart Drawer -->
+<div class='cart-overlay' id='cartOverlay'/>
+<div class='cart-drawer' id='cartDrawer'><div class='cart-header'><h3>Your Cart</h3><i class='fas fa-times' id='closeCart'/></div><div class='cart-items' id='cartItemsList'/><div class='cart-footer'><div><strong id='cartTotal'>PKR 0</strong></div><button class='checkout-btn' id='proceedCheckoutBtn'>Proceed to Checkout</button></div></div>
+<a class='whatsapp-float' href='https://wa.me/923194327821?text=Hello%20Shamain,%20I%20want%20to%20buy%20earbuds' target='_blank' title='Order on WhatsApp'><i class='fab fa-whatsapp'/></a>
+<footer>
+    <div class='footer-inner'>
+        <div><h4>SHAMAIN</h4><p>Premium audio earbuds for everyone. Free delivery, COD, warranty.</p></div>
+        <div>
+            <h4>Quick Links</h4>
+            <a href='/' onclick='showPage(&quot;home&quot;)'>Home</a><br/>
+            <a href='/p/about-us.html' onclick='showPage(&quot;about&quot;)'>About</a><br/>
+            <a href='/p/contact-us.html' onclick='showPage(&quot;contact&quot;)'>Contact</a><br/>
+            <a href='/p/privacy-policy.html' onclick='showPage(&quot;privacy&quot;)'>Privacy Policy</a><br/>
+            <a href='/p/terms-and-conditions.html' onclick='showPage(&quot;terms&quot;)'>Terms</a>
+        </div>
+        <div><h4>Contact</h4><p>+92 319 4327821<br/>support@shamain.com</p></div>
+    </div>
+    <div style='text-align:center; margin-top:20px;'>&#169; 2025 Shamain. All rights reserved. | <a href='/sitemap.xml'>Sitemap</a></div>
+</footer>
+
+<!-- Structured Data for Homepage -->
+<script type='application/ld+json'>
+{
+  &quot;@context&quot;: &quot;https://schema.org&quot;,
+  &quot;@type&quot;: &quot;Organization&quot;,
+  &quot;name&quot;: &quot;Shamain&quot;,
+  &quot;url&quot;: &quot;https://syedrafay1972.blogspot.com&quot;,
+  &quot;logo&quot;: &quot;https://syedrafay1972.blogspot.com/favicon.ico&quot;,
+  &quot;contactPoint&quot;: {
+    &quot;@type&quot;: &quot;ContactPoint&quot;,
+    &quot;telephone&quot;: &quot;+92-319-4327821&quot;,
+    &quot;contactType&quot;: &quot;customer service&quot;,
+    &quot;availableLanguage&quot;: [&quot;Urdu&quot;, &quot;English&quot;]
+  }
+}
+</script>
+
+<script type='text/javascript'>
+//<![CDATA[
+// ---------- DEFAULT PRODUCTS (Fallback) ----------
+const defaultProducts = [
+  {
+    id: 1001,
+    name: "Shamain AirBass Pro",
+    category: "wireless",
+    price: 2999,
+    oldPrice: 4999,
+    images: ["https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500"],
+    rating: 4.8,
+    assorted: false,
+    desc: "Crystal clear sound with deep bass. 20hr battery, Bluetooth 5.3.",
+    postUrl: "" // fill with your blog post URL if exists
+  },
+  {
+    id: 1002,
+    name: "Shamain ColorBurst Neckband",
+    category: "neckband",
+    price: 1899,
+    oldPrice: 2999,
+    images: ["https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500"],
+    rating: 4.5,
+    assorted: true,
+    desc: "Vibrant assorted colors, magnetic earbuds, 12hr playtime.",
+    postUrl: ""
+  }
+];
+
+let products = [];
+let cart = [];
+let currentPostId = null;
+
+const sliderImages = [
+    "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=1200",
+    "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=1200",
+    "https://images.unsplash.com/photo-1606220588913-b3aac3c9a6f3?w=1200",
+    "https://images.unsplash.com/photo-1605464315542-bda3e2f4e605?w=1200",
+    "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=1200"
+];
+const sliderImages2 = [
+    "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=1200",
+    "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=1200",
+    "https://images.unsplash.com/photo-1588421357574-87938a86fa28?w=1200",
+    "https://images.unsplash.com/photo-1606220945770-b5b6e2c8ed64?w=1200",
+    "https://images.unsplash.com/photo-1598331668826-20cecc596b86?w=1200"
+];
+let currentSlide=0,currentSlide2=0;
+
+function buildSliders(){
+    let t=document.getElementById('sliderTrack');if(t)t.innerHTML=sliderImages.map(s=>`<img src="${s}" alt="">`).join('');
+    let t2=document.getElementById('sliderTrack2');if(t2)t2.innerHTML=sliderImages2.map(s=>`<img src="${s}" alt="">`).join('');
+    let d1=document.getElementById('sliderDots');if(d1)d1.innerHTML=sliderImages.map((_,i)=>`<button class="${i===0?'active':''}" onclick="goToSlide(${i})"></button>`).join('');
+    let d2=document.getElementById('sliderDots2');if(d2)d2.innerHTML=sliderImages2.map((_,i)=>`<button class="${i===0?'active':''}" onclick="goToSlide2(${i})"></button>`).join('');
+}
+function moveSlide(d){currentSlide=(currentSlide+d+sliderImages.length)%sliderImages.length;document.getElementById('sliderTrack').style.transform=`translateX(-${currentSlide*100}%)`;updateDots();}
+function goToSlide(i){currentSlide=i;document.getElementById('sliderTrack').style.transform=`translateX(-${i*100}%)`;updateDots();}
+function updateDots(){let d=document.querySelectorAll('#sliderDots button');d.forEach((b,i)=>b.classList.toggle('active',i===currentSlide));}
+function moveSlide2(d){currentSlide2=(currentSlide2+d+sliderImages2.length)%sliderImages2.length;document.getElementById('sliderTrack2').style.transform=`translateX(-${currentSlide2*100}%)`;updateDots2();}
+function goToSlide2(i){currentSlide2=i;document.getElementById('sliderTrack2').style.transform=`translateX(-${i*100}%)`;updateDots2();}
+function updateDots2(){let d=document.querySelectorAll('#sliderDots2 button');d.forEach((b,i)=>b.classList.toggle('active',i===currentSlide2));}
+
+// Load products from Blogger post with label "productjson"
+function loadData() {
+  var feedUrl = location.protocol + '//' + location.host + '/feeds/posts/default/-/productjson?alt=json&max-results=1&orderby=published&' + Date.now();
+  fetch(feedUrl)
+    .then(function(response) { return response.json(); })
+    .then(function(data) {
+      if (data.feed && data.feed.entry && data.feed.entry.length > 0) {
+        var entry = data.feed.entry[0];
+        currentPostId = entry.id.$t.split('post-')[1];
+        var content = entry.content.$t;
+        content = content.replace(/<br\s*\/?>/gi,'').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').trim();
+        try {
+          var newProds = JSON.parse(content);
+          if (Array.isArray(newProds) && newProds.length > 0) {
+            products = newProds;
+            localStorage.setItem('shamain_products_v2', JSON.stringify(products));
+          } else {
+            throw new Error('Empty array');
+          }
+        } catch(e) {
+          console.warn('Post content is not valid JSON, falling back.');
+          useFallbackProducts();
+        }
+      } else {
+        currentPostId = null;
+        useFallbackProducts();
+      }
+    })
+    .catch(function() {
+      currentPostId = null;
+      useFallbackProducts();
+    })
+    .finally(function() {
+      var c = localStorage.getItem('shamain_cart');
+      cart = c ? JSON.parse(c) : [];
+      buildSliders();
+      renderShop();
+      renderFeatured();
+      updateCartUI();
+      showPage('home');
+      fetchRecentPosts(); // for SEO content
+      if (window.location.hash.startsWith('#product-')) {
+        var id = parseInt(window.location.hash.split('-')[1]);
+        if (!isNaN(id)) openProductDetail(id);
+      }
+    });
+}
+
+function useFallbackProducts() {
+  var s = localStorage.getItem('shamain_products_v2');
+  products = s ? JSON.parse(s) : [...defaultProducts];
+}
+
+function saveProducts() {
+  localStorage.setItem('shamain_products_v2', JSON.stringify(products));
+}
+function saveCart() {
+  localStorage.setItem('shamain_cart', JSON.stringify(cart));
+  updateCartUI();
+}
+
+// Fetch recent blog posts (SEO boost)
+function fetchRecentPosts() {
+  var script = document.createElement('script');
+  script.src = '/feeds/posts/default?max-results=4&alt=json-in-script&callback=displayRecentPosts';
+  document.body.appendChild(script);
+}
+function displayRecentPosts(data) {
+  var container = document.getElementById('recentPostsGrid');
+  if (!container) return;
+  var entries = data.feed.entry || [];
+  var html = '';
+  entries.forEach(function(entry) {
+    var title = entry.title.$t;
+    var link = '';
+    for (var i=0; i<entry.link.length; i++) {
+      if (entry.link[i].rel === 'alternate') { link = entry.link[i].href; break; }
+    }
+    var img = '';
+    if (entry.media$thumbnail && entry.media$thumbnail.url) {
+      img = entry.media$thumbnail.url.replace('s72-c', 's300');
+    } else {
+      img = 'https://via.placeholder.com/300';
+    }
+    var snippet = entry.summary ? entry.summary.$t.replace(/<[^>]+>/g,'').substring(0, 120) : '';
+    html += `<div class="product-card" onclick="location.href='${link}'"><img class="product-img" src="${img}" alt="${title}"><div class="product-info"><div class="product-title">${title}</div><p style="font-size:13px;color:#6b7280;">${snippet}...</p></div></div>`;
+  });
+  if (html) {
+    container.innerHTML = html;
+  } else {
+    container.innerHTML = '<p>No blog posts yet. <a href="/p/about-us.html">Learn more about us</a>.</p>';
+  }
+}
+
+let currentFilter='all',searchTerm='';
+function renderShop(){
+    let f=products.filter(p=>currentFilter==='all'||p.category===currentFilter);
+    if(searchTerm)f=f.filter(p=>p.name.toLowerCase().includes(searchTerm.toLowerCase()));
+    let g=document.getElementById('shopGrid');if(!g)return;
+    if(f.length===0){g.innerHTML='<div style="text-align:center;padding:40px;color:#6b7280;">No products found. Add some from Admin Panel or update the blog post.</div>';return;}
+    g.innerHTML=f.map(p=>{
+        let m=p.images&&p.images.length>0?p.images[0]:"https://via.placeholder.com/300";
+        let clickAction = p.postUrl ? `location.href='${p.postUrl}'` : `openProductDetail(${p.id})`;
+        return`<div class="product-card" onclick="${clickAction}"><img class="product-img" src="${m}" alt="${p.name}"><div class="product-info"><div class="product-category">${p.category.toUpperCase()} ${p.assorted?'🎨':''}</div><div class="product-title">${p.name}</div><div class="rating">${'★'.repeat(Math.floor(p.rating))}${'☆'.repeat(5-Math.floor(p.rating))} (${p.rating})</div><div class="price"><span class="current-price">PKR ${p.price}</span><span class="old-price">PKR ${p.oldPrice}</span></div><button class="btn-add" onclick="event.stopPropagation();addToCart(${p.id})">Add to Cart</button></div></div>`;
+    }).join('');
+}
+function renderFeatured(){
+    let f=products.slice(0,6);let g=document.getElementById('featuredGrid');if(!g)return;
+    if(f.length===0){g.innerHTML='<div style="text-align:center;padding:40px;color:#6b7280;">Add products to the blog post to see them here.</div>';return;}
+    g.innerHTML=f.map(p=>{
+        let m=p.images&&p.images.length>0?p.images[0]:"https://via.placeholder.com/300";
+        let clickAction = p.postUrl ? `location.href='${p.postUrl}'` : `openProductDetail(${p.id})`;
+        return`<div class="product-card" onclick="${clickAction}"><img class="product-img" src="${m}" alt="${p.name}"><div class="product-info"><div class="product-category">${p.category.toUpperCase()}</div><div class="product-title">${p.name}</div><div class="price"><span class="current-price">PKR ${p.price}</span><span class="old-price">PKR ${p.oldPrice}</span></div><button class="btn-add" onclick="event.stopPropagation();addToCart(${p.id})">Add to Cart</button></div></div>`;
+    }).join('');
+}
+function openProductDetail(id){
+    let p=products.find(x=>x.id===id);if(!p)return;
+    if(p.postUrl){ window.location.href = p.postUrl; return; }
+    let imgs=p.images&&p.images.length>0?p.images:["https://via.placeholder.com/400"];
+    let gal=imgs.map((img,i)=>`<img src="${img}" class="${i===0?'active':''}" onclick="changeMainImage(this,'${img}')" alt="">`).join('');
+    document.getElementById('modalBody').innerHTML=`<div class="detail-grid"><div><img id="mainProductImage" class="main-image" src="${imgs[0]}" alt="${p.name}"><div class="product-gallery">${gal}</div></div><div><h2>${p.name}</h2><p style="color:#dc2626;font-weight:700;">${p.category.toUpperCase()} ${p.assorted?'· Assorted Colors':''}</p><div class="rating">${'★'.repeat(Math.floor(p.rating))}${'☆'.repeat(5-Math.floor(p.rating))} (${p.rating})</div><p>${p.desc||'Premium audio experience.'}</p><div class="price"><span class="current-price">PKR ${p.price}</span><span class="old-price">PKR ${p.oldPrice}</span></div><button class="add-to-cart-large" onclick="addToCart(${p.id});closeModal()"><i class="fas fa-cart-plus"></i> Add to Cart</button></div></div>`;
+    document.title=p.name+" - Shamain";document.querySelector('meta[name="description"]').setAttribute("content",p.desc||`Buy ${p.name} online in Pakistan`);window.location.hash='product-'+p.id;document.getElementById('productModal').classList.add('active');
+}
+function closeModal(){document.getElementById('productModal').classList.remove('active');window.location.hash='';document.title="Shamain - Premium Earbuds";}
+document.getElementById('closeModal').onclick=closeModal;
+document.getElementById('productModal').onclick=function(e){if(e.target===this)closeModal();};
+function changeMainImage(el,src){document.getElementById('mainProductImage').src=src;document.querySelectorAll('.product-gallery img').forEach(i=>i.classList.remove('active'));el.classList.add('active');}
+function updateCartUI(){
+    let cnt=cart.reduce((s,i)=>s+i.quantity,0);document.getElementById('cartCount').innerText=cnt;
+    let c=document.getElementById('cartItemsList');if(!c)return;
+    if(cart.length===0)c.innerHTML='<div style="padding:40px;text-align:center;">Cart empty</div>';
+    else c.innerHTML=cart.map(item=>{let img=item.images&&item.images.length>0?item.images[0]:"https://via.placeholder.com/70";return`<div class="cart-item"><img class="cart-item-img" src="${img}"><div style="flex:1"><strong>${item.name}</strong><div>PKR ${item.price}</div><div class="cart-qty"><button onclick="updateQty(${item.id},-1)">-</button><span>${item.quantity}</span><button onclick="updateQty(${item.id},1)">+</button></div></div><button style="color:#dc2626;background:none;border:none;cursor:pointer;" onclick="removeCartItem(${item.id})"><i class="fas fa-trash"></i></button></div>`;}).join('');
+    let tot=cart.reduce((s,i)=>s+(i.price*i.quantity),0);document.getElementById('cartTotal').innerText=`PKR ${tot}`;
+    saveCart();
+}
+window.updateQty=(id,d)=>{let i=cart.findIndex(x=>x.id===id);if(i!==-1){cart[i].quantity+=d;if(cart[i].quantity<=0)cart.splice(i,1);updateCartUI();renderShop();renderFeatured();}};
+window.removeCartItem=(id)=>{cart=cart.filter(i=>i.id!==id);updateCartUI();renderShop();renderFeatured();};
+window.addToCart=(id)=>{let p=products.find(x=>x.id===id);if(!p)return;let ex=cart.find(i=>i.id===id);if(ex)ex.quantity++;else cart.push({...p,quantity:1});updateCartUI();renderShop();renderFeatured();};
+
+// Admin Panel
+let adminLoggedIn=false;
+function renderAdminDashboard(){
+    let c=document.getElementById('adminContent');if(!c)return;
+    if(!adminLoggedIn){
+        c.innerHTML=`<div style="text-align:center;padding:40px;"><i class="fas fa-lock" style="font-size:48px;color:#dc2626;"></i><h3>Admin Access</h3><input type="password" id="adminPass" placeholder="Password" style="width:80%;max-width:300px;padding:10px;margin:15px 0;border-radius:30px;border:1px solid #ddd;"/><br/><button id="verifyAdminBtn" class="checkout-btn" style="max-width:300px;">Unlock</button></div>`;
+        document.getElementById('verifyAdminBtn').addEventListener('click',()=>{if(document.getElementById('adminPass').value==='shamain2025'){adminLoggedIn=true;sessionStorage.setItem('admin_logged','true');renderAdminDashboard();}else alert('Wrong password!');});
+        return;
+    }
+    let blogId = document.querySelector('meta[name="blogId"]')?.content || '';
+    let editorUrl = '';
+    if (currentPostId && blogId) {
+        editorUrl = 'https://www.blogger.com/blog/post/edit/' + blogId + '/' + currentPostId;
+    }
+    c.innerHTML=`<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;"><h2><i class="fas fa-cog"></i> Product Dashboard</h2><button id="logoutAdminBtn" style="background:#4b5563;color:white;border:none;padding:8px 20px;border-radius:20px;">Logout</button></div>
+    <div style="background:#f9fafb;padding:20px;border-radius:16px;margin:20px 0;">
+      <h4>Add / Edit Product</h4>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin-bottom:10px;">
+        <input type="text" id="prodName" placeholder="Product Name"/><input type="number" id="prodPrice" placeholder="Price (PKR)"/><input type="number" id="prodOldPrice" placeholder="Old Price"/>
+        <select id="prodCategory"><option value="wireless">Wireless</option><option value="neckband">Neckband</option><option value="sports">Sports</option><option value="assorted">Assorted</option></select>
+        <label><input type="checkbox" id="prodAssorted"/> Assorted</label><input type="number" id="prodRating" step="0.1" placeholder="Rating"/>
+        <input type="url" id="prodPostUrl" placeholder="Blog Post URL (optional)" style="grid-column:span 2;"/>
+        <textarea id="prodDesc" placeholder="Short description" rows="2" style="grid-column:span 2;"></textarea>
+      </div>
+      <div style="margin:15px 0;"><strong>Product Images (max 5)</strong>
+        <div id="imageFieldsContainer" style="display:flex;flex-direction:column;gap:12px;margin-top:10px;"></div>
+        <div id="imagePreviewRow" style="display:flex;gap:10px;margin-top:10px;flex-wrap:wrap;"></div>
+      </div>
+      <div style="margin-top:10px;">
+        <button id="addProductBtn" style="background:#dc2626;color:white;border:none;padding:10px 24px;border-radius:20px;margin-right:10px;">➕ Add / Update Product</button>
+        <button id="resetDefaultBtn" style="background:#6b7280;color:white;border:none;padding:10px 24px;border-radius:20px;">Reset Defaults</button>
+        <button id="publishBlogBtn" style="background:#10b981;color:white;border:none;padding:10px 24px;border-radius:20px;margin-left:10px;"><i class="fas fa-cloud-upload-alt"></i> 📤 Publish to Blog</button>
+      </div>
+      <small style="display:block;margin-top:12px;color:#4b5563;">After adding products, click <strong>'Publish to Blog'</strong> to open the post editor and paste the JSON. Save the post, and your products will appear on all devices.</small>
+    </div>
+    <div style="overflow-x:auto;">
+      <table class="admin-table"><thead><tr><th>Image</th><th>Name</th><th>Cat</th><th>Price</th><th>Post URL</th><th>Actions</th></tr></thead><tbody id="adminProductList"></tbody></table>
+    </div>`;
+    let fc=document.getElementById('imageFieldsContainer');
+    for(let i=1;i<=5;i++){let d=document.createElement('div');d.style.display='flex';d.style.gap='10px';d.style.alignItems='center';d.innerHTML=`<input type="url" id="prodImage${i}" placeholder="Image ${i} URL" style="flex:1;"/><input type="file" id="fileImage${i}" accept="image/*" style="display:none;"/><button type="button" onclick="document.getElementById('fileImage${i}').click()" style="background:#e5e7eb;border:none;padding:6px 12px;border-radius:6px;cursor:pointer;"><i class="fas fa-upload"></i> Upload</button><button type="button" onclick="document.getElementById('prodImage${i}').value='';updateImagePreviews();" style="background:#fee2e2;border:none;padding:6px 12px;border-radius:6px;cursor:pointer;"><i class="fas fa-times"></i></button>`;fc.appendChild(d);}
+    for(let i=1;i<=5;i++){let fi=document.getElementById('fileImage'+i);let ui=document.getElementById('prodImage'+i);if(fi&&ui){fi.addEventListener('change',function(e){let file=e.target.files[0];if(file){let reader=new FileReader();reader.onload=function(ev){ui.value=ev.target.result;updateImagePreviews();};reader.readAsDataURL(file);}});}}
+    document.querySelectorAll('input[id^="prodImage"]').forEach(inp=>inp.addEventListener('input',updateImagePreviews));
+    document.getElementById('logoutAdminBtn').addEventListener('click',()=>{adminLoggedIn=false;sessionStorage.removeItem('admin_logged');renderAdminDashboard();});
+    document.getElementById('addProductBtn').addEventListener('click',addOrUpdateProduct);
+    document.getElementById('resetDefaultBtn').addEventListener('click',()=>{if(confirm('Reset all products to defaults?')){products=JSON.parse(JSON.stringify(defaultProducts));saveProducts();renderAdminProductList();renderShop();renderFeatured();}});
+    document.getElementById('publishBlogBtn').addEventListener('click',function(){
+        var jsonStr = JSON.stringify(products, null, 2);
+        navigator.clipboard.writeText(jsonStr).then(function(){
+            if (editorUrl) {
+                window.open(editorUrl, '_blank');
+                alert('✅ JSON copied! Blog post editor opened. Paste and Update.');
+            } else {
+                alert('✅ JSON copied! Now go to Blogger Posts → your "productjson" post → edit → paste.');
+            }
+        }, function(){
+            var textarea = document.createElement('textarea');
+            textarea.value = jsonStr;
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+            if (editorUrl) {
+                window.open(editorUrl, '_blank');
+                alert('✅ JSON copied! Editor opened. Paste now.');
+            } else {
+                alert('✅ JSON copied! Paste into blog post body.');
+            }
+        });
+    });
+    renderAdminProductList();
+}
+function updateImagePreviews(){
+    let pr=document.getElementById('imagePreviewRow');if(!pr)return;let urls=[];for(let i=1;i<=5;i++){let inp=document.getElementById('prodImage'+i);if(inp&&inp.value.trim())urls.push(inp.value.trim());}pr.innerHTML=urls.map(url=>`<img src="${url}" style="width:80px;height:80px;object-fit:cover;border-radius:8px;border:2px solid #e5e7eb;" alt="Preview">`).join('');
+}
+function addOrUpdateProduct(){
+    let name=document.getElementById('prodName').value.trim();let price=parseInt(document.getElementById('prodPrice').value);if(!name||isNaN(price))return alert('Name and price required.');let imgs=[];for(let i=1;i<=5;i++){let inp=document.getElementById('prodImage'+i);if(inp&&inp.value.trim())imgs.push(inp.value.trim());}if(imgs.length===0)imgs.push("https://via.placeholder.com/300");
+    let postUrl = document.getElementById('prodPostUrl').value.trim();
+    products.push({id:Date.now(),name,price,oldPrice:parseInt(document.getElementById('prodOldPrice').value)||price,category:document.getElementById('prodCategory').value,assorted:document.getElementById('prodAssorted').checked,images:imgs,rating:parseFloat(document.getElementById('prodRating').value)||4.5,desc:document.getElementById('prodDesc').value, postUrl: postUrl});
+    saveProducts();renderAdminProductList();renderShop();renderFeatured();
+    ['prodName','prodPrice','prodOldPrice','prodRating','prodDesc','prodPostUrl'].forEach(id=>document.getElementById(id).value='');
+    for(let i=1;i<=5;i++)document.getElementById('prodImage'+i).value='';
+    updateImagePreviews();
+    alert('Product added locally! Click "Publish to Blog" to make it live.');
+}
+function renderAdminProductList(){
+    let tb=document.getElementById('adminProductList');if(!tb)return;
+    tb.innerHTML=products.map(p=>{
+        let img=p.images&&p.images.length>0?p.images[0]:"https://via.placeholder.com/60";
+        return`<tr><td><img src="${img}" style="width:40px;height:40px;object-fit:cover;border-radius:8px;"/></td><td>${p.name}</td><td>${p.category}</td><td>PKR ${p.price}</td><td>${p.postUrl ? '<a href="'+p.postUrl+'" target="_blank">View Post</a>' : '—'}</td><td><button onclick="editProduct(${p.id})" style="background:#f59e0b;color:white;border:none;padding:4px 10px;border-radius:12px;margin-right:5px;"><i class="fas fa-edit"></i></button><button onclick="deleteProduct(${p.id})" style="background:#ef4444;color:white;border:none;padding:4px 10px;border-radius:12px;"><i class="fas fa-trash"></i></button></td></tr>`;
+    }).join('');
+}
+window.editProduct=(id)=>{
+    let p=products.find(x=>x.id===id);if(!p)return;
+    document.getElementById('prodName').value=p.name;
+    document.getElementById('prodPrice').value=p.price;
+    document.getElementById('prodOldPrice').value=p.oldPrice;
+    document.getElementById('prodCategory').value=p.category;
+    document.getElementById('prodAssorted').checked=p.assorted;
+    document.getElementById('prodRating').value=p.rating;
+    document.getElementById('prodDesc').value=p.desc||'';
+    document.getElementById('prodPostUrl').value=p.postUrl||'';
+    for(let i=1;i<=5;i++){let inp=document.getElementById('prodImage'+i);if(inp)inp.value=(p.images&&p.images[i-1])?p.images[i-1]:'';}
+    updateImagePreviews();
+    deleteProduct(id,true);
+};
+window.deleteProduct=(id,silent=false)=>{
+    products=products.filter(p=>p.id!==id);saveProducts();renderAdminProductList();renderShop();renderFeatured();
+    if(!silent)alert('Deleted! Don\'t forget to publish changes.');
+};
+
+// UI Open/Close handlers
+function openAdmin(){document.getElementById('adminOverlay').classList.add('active');adminLoggedIn=sessionStorage.getItem('admin_logged')==='true';renderAdminDashboard();}
+function closeAdmin(){document.getElementById('adminOverlay').classList.remove('active');}
+document.getElementById('adminIconBtn').addEventListener('click',openAdmin);
+document.getElementById('closeAdminPanel').addEventListener('click',closeAdmin);
+document.getElementById('adminOverlay').addEventListener('click',function(e){if(e.target===this)closeAdmin();});
+document.getElementById('hamburgerBtn').addEventListener('click',function(){document.getElementById('navLinks').classList.toggle('show');});
+document.querySelectorAll('#navLinks a').forEach(link=>link.addEventListener('click',function(){document.getElementById('navLinks').classList.remove('show');}));
+document.getElementById('cartIcon').onclick=()=>{document.getElementById('cartOverlay').classList.add('active');document.getElementById('cartDrawer').classList.add('active');};
+document.getElementById('closeCart').onclick=()=>{document.getElementById('cartOverlay').classList.remove('active');document.getElementById('cartDrawer').classList.remove('active');};
+document.getElementById('cartOverlay').onclick=()=>{document.getElementById('cartOverlay').classList.remove('active');document.getElementById('cartDrawer').classList.remove('active');};
+
+// Page navigation
+window.showPage=(page)=>{
+  document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
+  let target = document.getElementById(page+'Page');
+  if(target) target.classList.add('active');
+  document.querySelectorAll('.nav-links a').forEach(a=>a.classList.remove('active'));
+  let link=document.querySelector(`.nav-links a[href*="${page}"]`);
+  if(link)link.classList.add('active');
+  if(page==='shop'){currentFilter='all';searchTerm='';renderShop();}
+  if(page==='home')renderFeatured();
+  closeModal();
+  document.getElementById('navLinks').classList.remove('show');
+  window.scrollTo(0,0);
+};
+
+// Checkout, search, filters...
+document.getElementById('proceedCheckoutBtn').addEventListener('click',()=>{if(cart.length===0)return alert('Cart empty');document.getElementById('checkoutPanel').classList.add('active');document.getElementById('cartOverlay').classList.remove('active');document.getElementById('cartDrawer').classList.remove('active');let tot=cart.reduce((s,i)=>s+(i.price*i.quantity),0);document.getElementById('orderTotalPrice').innerText=tot;document.getElementById('orderSummaryItems').innerHTML=cart.map(i=>`<p>${i.name} x ${i.quantity} = PKR ${i.price*i.quantity}</p>`).join('');});
+document.getElementById('backToShopBtn').addEventListener('click',()=>{document.getElementById('checkoutPanel').classList.remove('active');});
+document.getElementById('checkoutForm').addEventListener('submit',e=>{e.preventDefault();if(cart.length===0)return;let phone=document.getElementById('phone').value;alert(`✅ Order placed! We will contact you at ${phone}.`);cart=[];saveCart();updateCartUI();renderShop();renderFeatured();document.getElementById('checkoutPanel').classList.remove('active');document.getElementById('checkoutForm').reset();});
+document.getElementById('searchBtn').onclick=()=>{searchTerm=document.getElementById('searchInput').value;renderShop();};
+document.getElementById('searchInput').addEventListener('keyup',e=>{if(e.key==='Enter'){searchTerm=e.target.value;renderShop();}});
+document.querySelectorAll('.filter-btn').forEach(b=>b.addEventListener('click',function(){document.querySelectorAll('.filter-btn').forEach(x=>x.classList.remove('active'));this.classList.add('active');currentFilter=this.dataset.cat;renderShop();}));
+document.getElementById('contactForm')?.addEventListener('submit',e=>{e.preventDefault();alert('Message sent!');e.target.reset();});
+
+// Start
+loadData();
+//]]>
+</script>
+</body>
+</html>
